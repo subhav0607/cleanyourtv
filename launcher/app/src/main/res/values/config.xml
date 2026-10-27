@@ -1,4 +1,4 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="utf-8"?>
 <!-- 
   Launcher configuration. Edit this file, then run launcher/build-and-install.sh.
   Or leave it and push a theme instead: tools/theme.sh themes/<name> puts a config.json (same keys, see
